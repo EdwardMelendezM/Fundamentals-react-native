@@ -1,10 +1,11 @@
 import React from 'react';
-import HelloWorld from './src/screens/HelloWorld';
+import ContadorScreen from './src/screens/ContadorScreen';
 
 const App = () => {
   return (
     <>
-      <HelloWorld />
+      {/* <HelloWorld /> */}
+      <ContadorScreen />
     </>
   );
 };
